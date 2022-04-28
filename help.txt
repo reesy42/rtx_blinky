@@ -1,1 +1,3 @@
 Dies ist eine Git Übung
+Klappt aber noch nicht so ganz
+aber wir arbeiten dran.
